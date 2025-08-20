@@ -242,7 +242,7 @@ src/
 ![Swagger java](docs/swagger.png)
 
 ## 👨‍💻 Автор
-- Nursultan Yerbakytuly — [GitHub](https://github.com/username) | [LinkedIn](https://www.linkedin.com/in/nursultan-yerbakytuly-900339352/)
+- Nursultan Yerbakytuly — [GitHub](https://github.com/NuRS7) | [LinkedIn](https://www.linkedin.com/in/nursultan-yerbakytuly-900339352/)
   
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
