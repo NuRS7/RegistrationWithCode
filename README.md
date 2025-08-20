@@ -233,6 +233,13 @@ src/
 | `SMTP_HOST`    | SMTP сервер      | `smtp.gmail.com`          |
 | `SMTP_PORT`    | SMTP порт        | `587`                     |
 
+## 📸 Скриншоты
+
+### 🔑 Получение кода верификации
+<img src="docs/screen.jpg" alt="Code" width="300"/>
+
+### 📊 Панель управления
+![Swagger java](docs/swagger.png)
 
 ## 👨‍💻 Автор
 - Nursultan Yerbakytuly — [GitHub](https://github.com/username) | [LinkedIn](https://www.linkedin.com/in/nursultan-yerbakytuly-900339352/)
