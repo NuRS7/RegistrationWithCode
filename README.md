@@ -60,8 +60,8 @@ PostgreSQL 12+ (или H2 для разработки)
 1. Клонирование репозитория
 
 ```markdown
-git clone <your-repo-url>
-cd registration-with-code
+https://github.com/NuRS7/RegistrationWithCode.git
+cd RegistrationWithCode
 ```
 2. Запуск Redis
 ```markdown
@@ -227,7 +227,7 @@ src/
 
 | Переменная   | Описание         | По умолчанию              |
 |--------------|------------------|---------------------------|
-| `DATABASE_URL` | URL базы данных  | `jdbc:postgresql://localhost:5432/codedb`      |
+| `DATABASE_URL` | URL базы данных  | `jdbc:postgresql://localhost:5432/registration_db`      |
 | `REDIS_HOST`   | Redis хост       | `localhost`               |
 | `REDIS_PORT`   | Redis порт       | `6379`                    |
 | `SMTP_HOST`    | SMTP сервер      | `smtp.gmail.com`          |
